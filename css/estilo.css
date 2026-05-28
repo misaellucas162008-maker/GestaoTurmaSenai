@@ -2,3 +2,13 @@
 @import "reset.css";
 @import "cores.css";
 
+@font-face {
+    font-family: snoopy;
+    src: url(fonts/snoopy/Snoopy.otf)
+}
+
+body{
+    color: var(--platinum);
+    font-family: snoopy;
+    background-color: var(--midnight-violet);
+}
