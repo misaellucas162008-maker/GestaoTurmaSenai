@@ -11,4 +11,6 @@ body{
     color: var(--platinum);
     font-family: snoopy;
     background-color: var(--midnight-violet);
+    color: black;
+    background-color: rgb(173, 174, 175);
 }
