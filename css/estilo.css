@@ -21,7 +21,7 @@ body {
 }
 
 header {
-    background-color: rgb(14, 171, 199);
+    background-color: rgb(214, 159, 159);
 }
 .menu {
     text-align: center;
@@ -35,7 +35,7 @@ header {
     display: inline-block;
     padding: 20px;
     border: 1px solid #000;
-    background-color: aqua;
+    background-color: rgb(231, 255, 20);
 }
 
 section {
@@ -57,7 +57,7 @@ section {
 }
 
 #turmas footer {
-    background-color: red;
+    background-color: rgb(129, 205, 211);
 }
 
 #turmas footer h3 {
