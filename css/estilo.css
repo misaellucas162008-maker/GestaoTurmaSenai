@@ -15,6 +15,7 @@ body {
 }
 .tituloPrincipal{
     text-align: center;
+    color: red;
 }
 
 .tituloPrincipal span:nth-child(1){
