@@ -9,12 +9,37 @@
 
 body {
     color: var(--platinum);
-    font-family: Fortnite;
+    font-family: snoopy;
     background-color: var(--midnight-violet);
+    font-family:var(--tamanho0) ;
 }
 .tituloPrincipal{
     text-align: center;
 }
+
+.tituloPrincipal span:nth-child(1){
+    text-align: center;
+    color: blue;
+}
+.tituloPrincipal span:nth-child(2){
+    text-align: center;
+    color:chartreuse;
+}
+.tituloPrincipal span:nth-child(3){
+    text-align: center;
+    color:red;
+}
+
+.tituloPrincipal span:nth-child(4){
+    text-align: center;
+    color:rgb(224, 109, 43);
+}
+
+.tituloPrincipal span:nth-child(5){
+    text-align: center;
+    color:rgb(9, 144, 255);
+}
+
 .img-banner {
     margin-left: auto;
     margin-right: auto;
@@ -36,6 +61,13 @@ header {
     padding: 20px;
     border: 1px solid #000;
     background-color: rgb(231, 255, 20);
+}
+
+.menu ul li:hover {
+    display: inline-block;
+    padding: 20px;
+    border: 1px solid #000;
+    background-color: rgb(255, 255, 255);
 }
 
 section {
